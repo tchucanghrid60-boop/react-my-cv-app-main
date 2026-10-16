@@ -47,7 +47,7 @@ export default function Portfolio() {
                     href="mailto:ninninsau@gmail.com"
                     className="text-gray-200 text-base md:text-lg hover:text-white transition-colors"
                 >
-                    ninninsau@gmail.com
+                    tchucanghrid60@gmail.com
                 </a>
             </div>
 
