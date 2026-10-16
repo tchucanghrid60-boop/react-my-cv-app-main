@@ -30,7 +30,7 @@ export default function About() {
                     {/* ฝั่งขวา: คำอธิบาย (เริ่มที่คอลัมน์ 7 และกินพื้นที่ไป 6 ช่อง ทำให้มีช่องว่างตรงกลาง) */}
                     <div className="md:col-start-7 md:col-span-6 space-y-5">
                         <h2 className="text-xl md:text-2xl font-serif font-bold leading-snug">
-                            Hi, I'm Permpoon Chouton. A passionate Full Stack Web Developer based in Thailand.
+                            Hi, I'm Pichet Chopojangreed. A passionate Full Stack Web Developer based in Thailand.
                         </h2>
 
                         <p className="text-gray-300 text-sm md:text-base leading-relaxed text-justify">

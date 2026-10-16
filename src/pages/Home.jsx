@@ -22,7 +22,7 @@ export default function Home() {
         <div className="flex flex-col gap-2">
             <span className="text-white text-6xl font-bold">Full Stack</span>
             <span className="text-white text-6xl font-bold">Developer !</span>
-            <span className="text-white text-2xl ">Hi, I'm Permpoon Chouton. A passwionate Full Stack </span>
+            <span className="text-white text-2xl ">Hi, I'm Pichet Chopojangreed. A passwionate Full Stack </span>
             <span className="text-white text-2xl">Web Developer based in Thailand.</span>
         <div className="flex gap-3 pt-3"> 
             <FaLinkedinIn className="text-green-400 text-4xl"/>
